@@ -1,7 +1,13 @@
 Seungho Lee
 Chris Lee
+Caleb Farwell
 Tian Yu Fan
 John-Ryan Dunn
 Mary Marquette
 Gabe Deml
+<<<<<<< HEAD
 Emily Austin
+=======
+Gabe Deml
+Ivan Eroshenko
+>>>>>>> 1304837af00501a02557a72bf22cbb4b58fe31b5
