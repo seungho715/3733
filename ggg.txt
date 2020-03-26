@@ -1,2 +1,10 @@
+Seungho Lee
 Chris Lee
+<<<<<<< HEAD
 Caleb Farwell
+=======
+Tian Yu Fan
+John-Ryan Dunn
+Mary Marquette
+Gabe Deml
+>>>>>>> 116dfd45c4bc38ebe7e52f2ae53b7656a1b23f7b
